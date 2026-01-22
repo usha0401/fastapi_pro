@@ -70,9 +70,12 @@ The system supports:
 🔗 https://fastapi-story-backend.onrender.com/docs 
 
 
+### Screenshots
 <img width="609" height="386" alt="image" src="https://github.com/user-attachments/assets/8e24c87f-cd70-4320-9ee5-854d2ec2191b" />
+<img width="602" height="381" alt="image" src="https://github.com/user-attachments/assets/ab41aa22-89d4-422d-9c6b-ef1af781a482" />
 <img width="602" height="438" alt="image" src="https://github.com/user-attachments/assets/9af79ec0-2c5e-4d9b-811e-a026715b4406" />
 <img width="574" height="423" alt="image" src="https://github.com/user-attachments/assets/a079414c-479d-49df-b2b6-5d2b969b8b41" />
 <img width="536" height="405" alt="image" src="https://github.com/user-attachments/assets/a4c21049-46c6-4f66-9490-72d90609193b" />
+<img width="539" height="386" alt="image" src="https://github.com/user-attachments/assets/23a1f905-9226-4e3c-8214-c2a7f36fabd7" />
 
 
