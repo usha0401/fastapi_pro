@@ -67,4 +67,12 @@ The system supports:
 🔗 https://fastapi-pro-rq1d.onrender.com/
 
 ### 🔧 Backend (API & Swagger Docs)  
-🔗 https://fastapi-story-backend.onrender.com/docs
+🔗 https://fastapi-story-backend.onrender.com/docs 
+
+
+<img width="609" height="386" alt="image" src="https://github.com/user-attachments/assets/8e24c87f-cd70-4320-9ee5-854d2ec2191b" />
+<img width="602" height="438" alt="image" src="https://github.com/user-attachments/assets/9af79ec0-2c5e-4d9b-811e-a026715b4406" />
+<img width="574" height="423" alt="image" src="https://github.com/user-attachments/assets/a079414c-479d-49df-b2b6-5d2b969b8b41" />
+<img width="536" height="405" alt="image" src="https://github.com/user-attachments/assets/a4c21049-46c6-4f66-9490-72d90609193b" />
+
+
